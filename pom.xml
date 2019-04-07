@@ -30,8 +30,7 @@
               <mainClass>com.mycompany.app.App</mainClass>
             </manifest>
           </archive>
-        </configuration>
-        <groupId>org.apache.maven.plugins</groupId>
+          </configuration>
         <artifactId>maven-surefire-plugin</artifactId>
         <version>2.19.1</version>
         <configuration>
